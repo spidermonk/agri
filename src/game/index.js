@@ -1,3 +1,5 @@
 module.exports = {
-	'GameObject': require('./GameObject')
+	'GameObject': require('./GameObject'),
+	'Game': require('./Game'),
+	'GameEvents': require('./GameEvents')
 };
